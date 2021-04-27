@@ -1,0 +1,2 @@
+# fruta
+Git init
